@@ -1,0 +1,9 @@
+CMD
+
+startat a venv venv\scripts\activate
+
+manage.py runserver
+
+GIT
+
+git pull origin master
